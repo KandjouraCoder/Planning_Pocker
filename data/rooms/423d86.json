@@ -1,0 +1,14 @@
+{
+    "id": "423d86",
+    "users": [
+        "Invit",
+        "Invit\u00e9",
+        "Bob"
+    ],
+    "votes": {
+        "Bob": "5",
+        "Invit\u00e9": "1"
+    },
+    "revealed": true,
+    "story": "creer une session"
+}

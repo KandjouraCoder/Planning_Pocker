@@ -1,0 +1,15 @@
+{
+    "id": "808814",
+    "users": [
+        "Invit",
+        "Invit\u00e9",
+        "birama"
+    ],
+    "votes": {
+        "Invit\u00e9": "13",
+        "birama": "3"
+    },
+    "revealed": true,
+    "story": "creer une session",
+    "password_hash": "$2y$10$bfrOB5usWnjNsn5F1azK2eHtg3TbgndaFDRw4OUMQXklSOMdFdOSu"
+}
